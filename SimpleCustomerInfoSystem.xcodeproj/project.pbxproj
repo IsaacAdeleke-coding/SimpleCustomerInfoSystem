@@ -44,8 +44,6 @@
 		2BE8CCF22CCA166A0018CCD7 = {
 			isa = PBXGroup;
 			children = (
-				2BE8CD082CCA17C90018CCD7 /* Address.cpp */,
-				2BE8CD092CCA17C90018CCD7 /* Address.hpp */,
 				2BE8CCFD2CCA166A0018CCD7 /* SimpleCustomerInfoSystem */,
 				2BE8CCFC2CCA166A0018CCD7 /* Products */,
 			);
@@ -63,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				2BE8CCFE2CCA166A0018CCD7 /* main.cpp */,
+				2BE8CD082CCA17C90018CCD7 /* Address.cpp */,
+				2BE8CD092CCA17C90018CCD7 /* Address.hpp */,
 			);
 			path = SimpleCustomerInfoSystem;
 			sourceTree = "<group>";
